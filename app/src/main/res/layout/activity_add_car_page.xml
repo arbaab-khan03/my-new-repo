@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--    android:paddingLeft="16dp"-->
+    <!--    android:paddingRight="16dp"-->
+    <EditText
+        android:id="@+id/car_brand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter car brand ex.Maruti Suzuki"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/car_model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Model ex.Swift"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/car_registration_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Registration number"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/car_chasis_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Chasis number"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/car_year_of_purchasing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Year of purchasing "
+        android:inputType="number"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:hint="Choose Type of car"
+        android:textSize="17dp"
+        android:layout_margin="10dp"/>
+    <Spinner
+        android:id="@+id/choose_car_type"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:hint="Choose Transmission"
+        android:textSize="17dp"
+        android:layout_margin="10dp"/>
+
+    <Spinner
+        android:id="@+id/choose_transmission"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:hint="Choose Fuel Type"
+        android:textSize="17dp"
+        android:layout_margin="10dp"/>
+
+    <Spinner
+        android:id="@+id/choose_fuel_type"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="5dp" />
+
+    <Button
+        android:id="@+id/add_car_details_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:onClick="addCarDetails"
+        android:text="Add Car" />
+
+
+</LinearLayout>
+</ScrollView>

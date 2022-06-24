@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pavilion x360 dh1181/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_expandable_list_item_1.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_menu_camera.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_nav_drawer_button.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/round_button.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/shape.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/drawable/side_nav_bar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_add_car_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_check_password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_drawer.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_driver_home_screen.xml" value="0.22" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_driver_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_driver_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_my_new.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_home_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_registration.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_show_table.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_show_table2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_show_table3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_book_ride.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_book_ride_navigation_drawer.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_cars.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_my_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_ride_history.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_transaction.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/add_car_page_navigation_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/nav_activity_drawer_driver_home_screen.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/nav_car.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/layout/owner_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/menu/activity_main_drawer.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/menu/drawer.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/menu/drawer__activity__for__driver.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/menu/drawer_activity02.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/menu/drawer_for_driver.xml" value="0.1578125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/All in One/Android projects/Driver hiring  Original/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_drawer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_driver_login.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_home_screen.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_home_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_owner_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/activity_user_book_ride.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/add_car_page_navigation_drawer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/app_bar_drawer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/layout/owner_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring  Original/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/drawable/ic_menu_camera.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.178125" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/drawable/round_button.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_add_car_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_driver_home_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_driver_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_driver_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_home_screen.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_my_new.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_navigation_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_owner_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_owner_home_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_owner_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_owner_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_show_added_cars.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_show_added_cars_navigation.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_user_book_ride.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_user_book_ride_navigation_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_user_cars.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/activity_user_my_profile.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/add_car_page_navigation_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/app_bar_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/appbar.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/content_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/fragment_home.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/fragment_slideshow.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/nav_car.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/nav_header_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/owner_home.xml" value="0.1" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/round_button.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/show_added_car_navigation_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/layout/show_added_cars.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/menu/activity_main_drawer.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/menu/drawer.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Pavilion x360 dh1181/Desktop/Android projects/Driver hiring app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.178125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

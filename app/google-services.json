@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876136590089",
+    "project_id": "driver-hiring-app",
+    "storage_bucket": "driver-hiring-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876136590089:android:f18094e13042a42c1281d8",
+        "android_client_info": {
+          "package_name": "com.example.driverhiringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876136590089-r6h3vt8r3h72e02snjp98oig9gejonpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaTOprFCleBDo4GhIHUdxqYj0RACxlyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876136590089-r6h3vt8r3h72e02snjp98oig9gejonpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

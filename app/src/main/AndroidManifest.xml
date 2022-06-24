@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.driverhiringapp">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DriverHiringApp">
+        <activity
+            android:name=".CheckPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShowTableActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".ShowTableActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ShowTableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DrawerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_drawer02"
+            android:theme="@style/Theme.NavigationDrawer.NoActionBar" />
+        <activity
+            android:name=".MyNew"
+            android:exported="false" />
+        <activity
+            android:name=".DriverDocuments"
+            android:exported="false" />
+        <activity
+            android:name=".DriverHomeScreen"
+            android:exported="false" />
+        <activity
+            android:name=".DriverProfile"
+            android:exported="false" />
+        <activity
+            android:name=".DriverTransactiion"
+            android:exported="false" />
+        <activity
+            android:name=".DriverRide"
+            android:exported="false" />
+        <activity
+            android:name=".UserBookRide"
+            android:exported="false" />
+        <activity
+            android:name=".AddCarPage"
+            android:exported="false" />
+        <activity
+            android:name=".UserTransaction"
+            android:exported="false" />
+        <activity
+            android:name=".UserRideHistory"
+            android:exported="false" />
+        <activity
+            android:name=".UserCars"
+            android:exported="false" />
+        <activity
+            android:name=".UserMyProfile"
+            android:exported="false" />
+        <activity
+            android:name=".OwnerHomeScreen"
+            android:exported="false" />
+        <activity
+            android:name=".OwnerRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".DriverRegistration"
+            android:exported="false" />
+        <activity
+            android:name=".OwnerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".DriverLogin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
